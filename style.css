@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    width: 400px;
+    border-radius: 20px;
+    border: 20px;
+
+}
+p{
+    font-size: 30px;
+    font-style: italic;
+}
+a{
+    color: black;
+}
+ol{
+    font-size:20px ;
+}
